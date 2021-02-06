@@ -1,6 +1,8 @@
 # XKCDo
 Helping non-physicists understand Randall Munroe's humor.
 
+![In action](screenshot.png)
+
 ## Contents
 
 * A content script, `epxlain.js`, that is injected into any pages under xkcd.com
