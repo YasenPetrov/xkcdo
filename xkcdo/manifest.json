@@ -13,6 +13,12 @@
         "matches": ["*://xkcd.com/*"],
         "js": ["explain.js"]
       }
-    ]
+    ],
+
+    "browser_specific_settings": {
+      "gecko": {
+        "strict_min_version": "84.0",
+        "id": "{2453edab-3594-4e6f-af6b-1cee9666ba8d}"
+      }
     }
 }
