@@ -1,7 +1,7 @@
 # XKCDo
 Helping non-physicists understand Randall Munroe's humor.
 
-![In action](screenshot.png)
+![In action](img/screenshot.png)
 
 ## Contents
 
